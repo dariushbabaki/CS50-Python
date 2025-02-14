@@ -11,7 +11,7 @@
 Goal or nonsense, or "Guess tvi Hand," is a simple yet engaging Python game in which the player tries to guess which hand a ball is hidden in. The game randomly selects either the left or right hand to hide the ball, and the player’s goal is to guess the correct hand. This project is implemented in two Python files, each serving a distinct purpose: `project.py` for the main game functionality and `test_project.py` for testing the code.
 
 
-project.py
+- project.py
 
 The `project.py` file contains the core logic of the game. It includes functions for hiding the ball, receiving the player's guess, and checking if the guess matches the hidden hand. Here’s a breakdown of each main function:
 
@@ -24,7 +24,7 @@ main(): This is the entry point of the game, presenting a welcome message and gu
   check_guess(choice): It calls `hide_ball()` to determine the actual hidden hand and compares it with the player's choice, returning a tuple with the result of the guess (True/False) and the actual hidden hand for reference.
 
 
-  test_project.py
+- test_project.py
 
   The `test_project.py` file contains test cases using the `pytest` framework to ensure the reliability of the main game components in `project.py`. These tests are designed to validate various aspects of the game:
 
