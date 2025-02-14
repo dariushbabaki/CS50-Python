@@ -81,4 +81,4 @@ Go ahead and take a peek at the solutions.
 I finished this course on February 6, 2024.
 The picture below shows my certificate after completing all the assignments:
 
-![cs50p](image/CS50p.png)
+![cs50p](image/CS50P.png)
