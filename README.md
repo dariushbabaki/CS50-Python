@@ -25,7 +25,7 @@ Go ahead and take a peek at the solutions.
 
 ## Table of Contents
 - [Problem Set 0: Functions, Variables](https://github.com/dariushbabaki/CS50-Python/tree/main/week0)
-  * [Einstein](/Week0/einstein)
+  * [Einstein](https://github.com/dariushbabaki/CS50-Python/blob/main/week0/einstein.py)
   * [Faces](/Week0/faces)
   * [Indoor](/Week0/indoor)
   * [Playback](/Week0/playback)
