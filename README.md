@@ -24,7 +24,7 @@ This repository is used to store my solutions to weekly assignments. You can cli
 Go ahead and take a peek at the solutions.
 
 ## Table of Contents
-- [Problem Set 0: Functions, Variables](/https://github.com/dariushbabaki/CS50-Python/tree/main/week0)
+- [Problem Set 0: Functions, Variables(https://github.com/dariushbabaki/CS50-Python/tree/main/week0)
   * [Einstein](/Week0/einstein)
   * [Faces](/Week0/faces)
   * [Indoor](/Week0/indoor)
