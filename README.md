@@ -75,7 +75,7 @@ Go ahead and take a peek at the solutions.
   * [Cookie Jar](https://github.com/dariushbabaki/CS50-Python/tree/main/week8/2)
   * [CS50 Shirtificate](https://github.com/dariushbabaki/CS50-Python/tree/main/week8/3)
 - [Problem Set9]
-  * [Final Project](https://github.com/dariushbabaki/CS50-Python/tree/main/final%20project)
+  * [Final Project: Et Cetera](https://github.com/dariushbabaki/CS50-Python/tree/main/final%20project)
 
 
 I finished this course on February 6, 2024.
