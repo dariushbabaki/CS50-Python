@@ -1,4 +1,4 @@
-Harvard CS50p — 2024 Solutions 😎
+Harvard CS50p — 2024 Solutions
 =====================
 
 -   [Course Link](https://cs50.harvard.edu/python/2022/)
@@ -14,7 +14,7 @@ An introduction to programming using a language called Python. Learn how to read
 -   ✅ Slides & Notes
 -   ✅ Auto Grader
 
-![cs50](img/CS50.png)
+![cs50](image/CS50.png)
 
 ## Works
 
@@ -74,11 +74,11 @@ Go ahead and take a peek at the solutions.
   * [Seasons of Love](/Week8/seasons)
   * [Cookie Jar](/Week8/jar)
   * [CS50 Shirtificate](/Week8/shirtificate)
-- [Problem Set9: Et Cetera](https://github.com/alirezarpa/Tic-Tac-Toe)
+- [Problem Set9]
   * [Final Project](https://github.com/dariushbabaki/CS50-Python/tree/main/final%20project)
 
 
 I finished this course on February 6, 2024.
 The picture below shows my certificate after completing all the assignments:
 
-![cs50p](img/CS50p.png)
+![cs50p](image/CS50p.png)
